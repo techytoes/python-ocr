@@ -1,3 +1,11 @@
+## Requirements
+
+`sudo apt-get install python-imaging`
+
+`sudo apt-get install tesseract-ocr`
+
+`sudo apt-get install python-opencv`
+
 ocr-text-extraction
 ===================
 
