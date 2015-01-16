@@ -8,9 +8,13 @@
 
 ## Example
 
+![Before processing](http://raw.githubusercontent.com/schollz/ocr-text-extraction/master/test.jpg)
+
 1. First process the image
 
 `python process_image.py test.jpg text.jpg && python extract_text.py`
+
+![After processing](http://raw.githubusercontent.com/schollz/ocr-text-extraction/master/text.jpg)
 
 2. Extract text
 
