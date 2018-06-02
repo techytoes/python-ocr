@@ -16,7 +16,7 @@ In simple words, this project extracts text from an image.
 
 This is the original image which will be used for extraction of text.
 
-![test](images/test.png)
+![test](Images/test.png)
 
 * First process the image
 
@@ -24,7 +24,7 @@ This is the original image which will be used for extraction of text.
 
 The image will look like this after the `process_image.py script` is executed.
 
-![test](images/text.png)
+![test](Images/text.png)
 
 Finally run this script to extract text from the image
 
@@ -32,5 +32,5 @@ Finally run this script to extract text from the image
 
 `python extract_text.py`
 
-
+ 
 If you love the work, Please ⭐️ (star) this repo.
